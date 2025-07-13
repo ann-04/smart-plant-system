@@ -9,8 +9,8 @@
 #include <DHT.h>
 
 // WiFi credentials
-char ssid[] = "Sweet Home";     
-char pass[] = "manaslamp1";     
+char ssid[] = "";     
+char pass[] = "";     
 
 // Pin Definitions
 #define RELAY_PIN D1
