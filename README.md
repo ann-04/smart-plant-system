@@ -53,9 +53,9 @@ This project is an IoT-based **Smart Plant Monitoring System** built using the E
 
 ## 📸 Demo
 
-<img width="933" height="629" alt="Screenshot 2025-07-14 135819" src="https://github.com/user-attachments/assets/04717268-401a-4e5b-9d41-0a4829eacdc6" />
+<img width="933" height="600" alt="Screenshot 2025-07-14 135819" src="https://github.com/user-attachments/assets/04717268-401a-4e5b-9d41-0a4829eacdc6" />
 
-<img width="452" height="686" alt="Screenshot 2025-07-14 140933" src="https://github.com/user-attachments/assets/4a30d242-99bf-4702-91f7-8da37f90fc1b" />
+<img width="452" height="600" alt="Screenshot 2025-07-14 140933" src="https://github.com/user-attachments/assets/4a30d242-99bf-4702-91f7-8da37f90fc1b" />
 
 
 ---
